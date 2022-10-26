@@ -42,6 +42,17 @@ One noteworthy that I can recommend is [OWASP ZAP](https://www.zaproxy.org/).
 
     OWASP ZAP is quite versatile, and is well suited for integration with your CI/CD. 
 
+
+ ### IAST
+
+Stands for "**Interactive** Application Security Testing". 
+
+
+### RASP
+
+Stands for "**Runtime** Application Self-Protection". 
+
+
 ## Manual :raised_hand_with_fingers_splayed:
 
 !!! example "Have a look at [WSTG](https://owasp.org/www-project-web-security-testing-guide/)"
