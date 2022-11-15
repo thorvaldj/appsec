@@ -53,7 +53,7 @@ As the application is being externally triggered through automated or manual eve
 
 IAST is performed in production or a production-like environment, and in contrast to SAST will be able to identify vulnerabilities based on the systems behaviour and not only its static codebase. 
 This results in a more holistic approach to evaluating the system. 
-It balances some of the false positives given by other more static approaches, through evaluating the system in a context determined by configuration, control and dataflow and other characteristics given by the environment where the application is running.
+It balances some of the false positives given by other more static approaches, and evaluates the system in a context determined by configuration, control and dataflow and other characteristics given by the environment where the application is running.
 
 Proper utilization of IAST, as being included in the CI/CD pipeline will then be able to _"shift left"_ the types of tests that bring information about posible observable runtime vulnerabilities into the development stage.
 
