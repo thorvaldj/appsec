@@ -43,7 +43,7 @@ One noteworthy that I can recommend is [OWASP ZAP](https://www.zaproxy.org/).
     OWASP ZAP is quite versatile, and is well suited for integration with your CI/CD. 
 
 
- ### IAST
+### IAST
 
 Stands for "**Interactive** Application Security Testing". IAST is dynamic and gets its feedback from _sensor modules_ that are included with – and run in context with the application that is subject to the test.
 
